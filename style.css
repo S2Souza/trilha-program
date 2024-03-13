@@ -1,0 +1,19 @@
+
+body {
+   background-color: rgb(58, 39, 26);
+}
+h1 {
+   color: chocolate;
+   text-align: center;
+}
+h2 {
+   color: coral;
+   border-style: dotted;
+   border-color: coral;
+}
+h3 {
+   color: firebrick;
+   border-style: solid;
+   border-color: brown;
+   border-width: 5px;
+}
