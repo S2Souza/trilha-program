@@ -10,7 +10,8 @@ h2 {
    color: coral;
    border-style: dotted;
    border-color: coral;
-   text-aling: right;
+   text-align: right;
+   margin-bottom: 20px;
 }
 h3 {
    color: firebrick;
