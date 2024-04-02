@@ -13,7 +13,6 @@ h2 {
    color: coral;
    border-style: dotted;
    border-color: coral;
-   text-align: right;
    margin-left: 15%;
    margin-right: 15%;
 }
@@ -22,4 +21,8 @@ h3 {
    border-style: solid;
    border-color: brown;
    border-width: 5px;
+   margin-left: 15%;
+   margin-right: 15%;
 }
+
+
