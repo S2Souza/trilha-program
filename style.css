@@ -5,13 +5,17 @@ body {
 h1 {
    color: chocolate;
    text-align: center;
+   background-color: crimson;
+   padding-bottom: 10%;
+   padding-top: 10%;
 }
 h2 {
    color: coral;
    border-style: dotted;
    border-color: coral;
    text-align: right;
-   margin-bottom: 50%;
+   margin-left: 15%;
+   margin-right: 15%;
 }
 h3 {
    color: firebrick;
